@@ -1,0 +1,8 @@
+﻿  BinaryMinHeap.cpp
+C:\Users\thefa\source\repos\ADS week 9 Heap\ADS week 9 Heap\BinaryMinHeap.cpp(6,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\thefa\source\repos\ADS week 9 Heap\ADS week 9 Heap\BinaryMinHeap.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+  Source.cpp
+C:\Users\thefa\source\repos\ADS week 9 Heap\ADS week 9 Heap\Source.cpp(7,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  ADS week 9 Heap.vcxproj -> C:\Users\thefa\source\repos\ADS week 9 Heap\Debug\ADS week 9 Heap.exe
